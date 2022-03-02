@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\Study Meterials\TestProjects\.metadata\.plugins\org.eclipse.jdt.core
+2970366518.index
+1865797976.index
+3295382668.index
